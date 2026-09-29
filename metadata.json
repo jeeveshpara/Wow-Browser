@@ -1,0 +1,7 @@
+{
+  "name": "Wow Browser",
+  "description": "A privacy-focused web browser built with Next.js featuring ad blocking, bookmarks, and private browsing.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
